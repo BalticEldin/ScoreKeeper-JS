@@ -1,0 +1,27 @@
+.cardAligment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.buttonAligment {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2em;
+}
+
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
+
+
+.winnerText {
+    font-weight: bold;
+}
